@@ -23,12 +23,12 @@ The board of directors is a group of volunteer Georgia Tech alumni that provide 
 
 ### Officers
 - Jonathan Spalten <small>(President)</small>
-- Cameron Loyd <small>(Secretary)</small>
-- Kristaps Berzinch <small>(Treasurer)</small>
+- Joseph Spall <small>(Secretary)</small>
+- Zach Slaton <small>(Treasurer)</small>
 
 ### Directors
-- Cameron Loyd <small>(2022-2025)</small>
-- Joseph Spall <small>(2022-2025)</small>
+- Charles Li <small>(2025-2028)</small>
+- Joseph Spall <small>(2022-2028)</small>
 - Jonathan Spalten <small>(2023-2026)</small>
 - Josh Oldenburg <small>(2023-2026)</small>
 - Matthew Barulic <small>(2024-2027)</small>
@@ -59,6 +59,7 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [October 30th, 2024](https://drive.google.com/file/d/1rZzYSXMAYmyL1W09Lx5midfh81FrPahz/view)
 - [January 19th, 2025](https://drive.google.com/file/d/1uApzvlWVS5iUQeoGhZFoc-TT4yPvItoh/view)
 - [April 30th, 2025](https://drive.google.com/file/d/1gB8-zkmi0RkyvsAIhrRDXDBRv2n4lota/view)
+- [July 27th, 2025](https://drive.google.com/file/d/1HQ8GmyyfJaKyzP-9USG7DIGNuLvu0G6f/view)
 
 ## Internal Revenue Service Documents
 The IRS has determined we are exempt from federal income tax under IRC Section 501(c)(7). You may view our application and determination letter below.
