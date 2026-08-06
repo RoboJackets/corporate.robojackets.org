@@ -22,15 +22,14 @@ RoboJackets, Inc. is a Georgia non-profit 501(c)(7) corporation dedicated to the
 The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation. Officer positions and director terms are noted in parentheses.
 
 ### Officers
-- Jonathan Spalten <small>(President)</small>
+- Zach Slaton <small>(President and Treasurer)</small>
 - Joseph Spall <small>(Secretary)</small>
-- Zach Slaton <small>(Treasurer)</small>
 
 ### Directors
 - Charles Li <small>(2025-2028)</small>
 - Joseph Spall <small>(2022-2028)</small>
-- Jonathan Spalten <small>(2023-2026)</small>
-- Josh Oldenburg <small>(2023-2026)</small>
+- Brian Epstein <small>(2026-2029)</small>
+- Evan Strakes <small>(2026-2029)</small>
 - Matthew Barulic <small>(2024-2027)</small>
 
 ## Meeting Minutes
