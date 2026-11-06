@@ -76,6 +76,7 @@ The IRS has determined we are exempt from federal income tax under IRC Section 5
   - [Form 990-EZ for the fiscal year ending June 30th, 2023](https://drive.google.com/file/d/1YLpDtXbQKRpZ4bBvGDuh0J8sxLl8FCbC/view)
   - [Form 990-EZ for the fiscal year ending June 30th, 2024](https://drive.google.com/file/d/1FsaXGk66C_F7CnZ0k6-45o55_MZpdC4U/view)
   - [Form 990-EZ for the fiscal year ending June 30th, 2025](https://drive.google.com/file/d/1hIitp42cAcmVrZbrEGgyOD2NThT3HNFI/view)
+  - [Form 990-EZ for the fiscal year ending June 30th, 2026](https://drive.google.com/file/d/1Aisty8Y17rOdYzmjo6w2UxRQd8YYRNLB/view)
 
 ## Contributing
 The corporation is primarily funded by membership dues and does not solicit external monetary contributions. To support our mission, please email [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the [Georgia Tech Foundation](https://www.gtf.gatech.edu), a non-profit 501(c)(3) corporation.
